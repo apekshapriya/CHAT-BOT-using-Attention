@@ -1,0 +1,60 @@
+hi
+hi
+hello
+hi
+hey
+hi
+what's up
+nothing much
+greetings
+greetings
+how are you
+I'm doing good
+what's your name
+I'm nameless
+what can you do
+anything that you want
+when can I check in
+the date specified on your reservation
+when can I check out
+whenever you want to
+who are you
+I am your little assistant
+what's your address
+I don't have an address
+what's your phone number
+I don't have phone number either
+how can I call you
+you can't call me, you can only talk to me here
+can you call someone for me
+sure, what is their phone number
+can I talk to someone
+sure, I'm getting you someone to talk with you
+how to get to your office
+take the metro and stop at the terminus, we are 5mins away from there
+how to get to your office if I come from Bordeaux
+you need to take the TGV then at Paris Train Station you take the subway
+how to get to your office if I come from Lyon
+you need to take the TGV then at Paris Train Station you take the subway
+how to get to your office if I come from Marseille
+you need to take the TGV then at Paris Train Station you take the subway
+how to get to your office if I come from Switzerland
+you need to take the TGV then at Paris Train Station you take the subway
+how to get to your office if I come by car
+you need to take the periph and drive for 30mins
+how to get to your office if I come by bike
+you need to take the periph and drive for 80mins
+how to get to your office if I come by motobike
+you need to take the periph and drive for 40mins
+I need to make an appointment
+sure, about what
+I need to see the doctor
+sure, about what
+When is the doctor free
+well, depends on how urgent you need him
+I need to renew my prescription
+can you come to the clinic
+I need to make an appointment for my husband
+sure, for what
+My child needs to come in for a check-up
+well, please fill the form below
