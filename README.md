@@ -1,2 +1,9 @@
-Implemented CHAT-BOT using ATTENTION MECHANISM 
-Got the ACCURACY of 79%
+# CHAT_BOT
+
+## Model
+
+RNN ENCODER DECODER with ATTENTION MECHANISM
+
+## Result
+
+ACCURACY:  79%
